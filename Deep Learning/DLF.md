@@ -23,7 +23,7 @@ As a part of GCDAI- Deep Learning Foundation Term Project, INSAID :
 ## Project Material:
 - [Database](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Deep%20Learning/Data/seattle_weather.csv)
 
-- [Link for the Jupyter notebook](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Deep%20Learning/Data/DLF_JignaThacker_Notebook.ipynb)
+- [Jupyter notebook](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Deep%20Learning/Data/DLF_JignaThacker_Notebook.ipynb)
 
 - [Presentation](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Deep%20Learning/Data/DLF_JignaThacker_Presentation.pdf)
 

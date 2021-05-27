@@ -7,11 +7,11 @@ I have taken Breast Cancer Survival database to predict patient survival after 5
 - year of operation 
 - positive axillary node
 
-![image.png](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Images/Breast%20Cancer.jpg)
+![image.png](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/EDA%20Project/IMAGE/Breast%20Cancer.jpg)
 
 ## Project Material:
-- [Database](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Breast_cancer_survival.csv)
+- [Database](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/EDA%20Project/Breast_cancer_survival.csv)
 
-- [Link for the Jupyter notebook](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Breast_cancer_survival_JT.ipynb)
+- [Jupyter notebook](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/EDA%20Project/Breast_cancer_survival_JT.ipynb)
 
-- [Presentation](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Project-1_Jigna%20Thacker.pdf)
+- [Presentation](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/EDA%20Project/Project-1_Jigna%20Thacker.pdf)

@@ -1,6 +1,6 @@
 # INSAID-Capstone Project on EDA
 
-# Group activity - Group No.1007 :
+### Group activity - Group No.1007 :
 The Capstone Project is a team-based project. Group was decided by INSAID team. Expectation from each individual was to communicate and sync like a proper professional team. 
 
 - As a part group activity - INSAID has given capstone Project on telecom industry data

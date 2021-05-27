@@ -4,7 +4,7 @@ Projects performed during Data Science-ML-AI learning with INSAID, I learnt vari
 Below are the project details:
 
 - [EDA](https://github.com/jmps967/INSAID-COURSE-PROJECTS/tree/main/EDA%20Project)
-- [Machine Learning](https://github.com/jmps967/INSAID-COURSE-PROJECTS/tree/main/EDA%20Project)
+- [Machine Learning](https://github.com/jmps967/INSAID-COURSE-PROJECTS/tree/main/Machine%20Learning)
     - Fundation
     - Intermediate
     - Advance

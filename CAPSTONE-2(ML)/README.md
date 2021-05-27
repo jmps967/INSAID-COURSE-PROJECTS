@@ -34,11 +34,11 @@ Once an employee leaves, he or she is taken an interview with the name “exit i
 The HR department has hired you as data science consultants. They want to supplement their exit interviews with a more proactive approach.
 
 ### Project Material:
-- [Database-Departmentdata](https://github.com/jmps967/INSAID-CapstoneProject-2-ML/blob/master/department_data.csv)
-- [Database-Employeedata](https://github.com/jmps967/INSAID-CapstoneProject-2-ML/blob/master/employee_data.csv)
-- [Database-employeeDetailsdata](https://github.com/jmps967/INSAID-CapstoneProject-2-ML/blob/master/employee_details_data.csv)
+- [Database-Departmentdata](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/CAPSTONE-2(ML)/department_data.csv)
+- [Database-Employeedata](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/CAPSTONE-2(ML)/employee_data.csv)
+- [Database-employeeDetailsdata](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/CAPSTONE-2(ML)/employee_details_data.csv)
 
-- [Link for the Jupyter notebook](https://github.com/jmps967/INSAID-CapstoneProject-2-ML/blob/master/Final_submitted/1001_GCD_Captone_Project.zip)
+- [Jupyter notebook](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/CAPSTONE-2(ML)/Final_submitted/1001_GCD_Captone_Project.zip)
 
 ## Thank You ##
 

@@ -9,3 +9,6 @@ Below are the project details:
     - Intermediate
     - Advance
 - [Deep Learning Foundation](https://github.com/jmps967/INSAID-COURSE-PROJECTS/tree/main/Deep%20Learning)
+- Capstone Project
+    - Project-1-EDA
+    - Project-2-ML  

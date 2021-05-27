@@ -5,7 +5,7 @@ As a part of GCDAI- Deep Learning Foundation Term Project, INSAID :
   I have taken Seattle Rain database to Predict rain on the specific day.
 
 
-![image.png](https://github.com/jmps967/INSAID-DLF_Jigna-Thacker/blob/master/Image/raining-on-the-streets-gty-mem-171019_16x9_992.jpg)
+![image.png](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Deep%20Learning/Image/raining-on-the-streets-gty-mem-171019_16x9_992.jpg)
 
 ### Project Brief:
 - Content 
@@ -21,8 +21,8 @@ As a part of GCDAI- Deep Learning Foundation Term Project, INSAID :
     - Use this data set to build a model able to predict whether it will rain on a specific day.
 
 ## Project Material:
-- [Database](https://github.com/jmps967/INSAID-DLF_Jigna-Thacker/blob/master/Data/seattle_weather.csv)
+- [Database](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Deep%20Learning/Data/seattle_weather.csv)
 
-- [Link for the Jupyter notebook](https://github.com/jmps967/INSAID-DLF_Jigna-Thacker/blob/master/Data/DLF_JignaThacker_Notebook.ipynb)
+- [Link for the Jupyter notebook](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Deep%20Learning/Data/DLF_JignaThacker_Notebook.ipynb)
 
-- [Presentation](https://github.com/jmps967/INSAID-DLF_Jigna-Thacker/blob/master/Data/DLF_JignaThacker_Presentation.pdf)
+- [Presentation](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Deep%20Learning/Data/DLF_JignaThacker_Presentation.pdf)

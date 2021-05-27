@@ -23,9 +23,9 @@ Currently, InsaidTelecom is seeking to leverage behavioral data from more than 6
 - Doing so will help millions of developers and brand advertisers around the world pursue data-driven marketing efforts which are         relevant to their users and catered to their preferences.
 
 ### Project Material:
-- [Database](https://github.com/jmps967/INSAID-CapstoneProject/blob/master/Data_Link.txt)
+- [Database](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/CAPSTONE-1(EDA)/Data_Link.txt)
 
-- [Link for the Jupyter notebook](https://github.com/jmps967/INSAID-CapstoneProject/blob/master/GROUP-1007-JupyterNotebookWithAllAnalysis.zip)
+- [Jupyter notebook](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/CAPSTONE-1(EDA)/GROUP-1007-JupyterNotebookWithAllAnalysis.zip)
 
-- [Consulting Report](https://github.com/jmps967/INSAID-CapstoneProject/blob/master/Group-1007-Counsulting%20Report.pdf)
+- [Consulting Report](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/CAPSTONE-1(EDA)/Group-1007-Counsulting%20Report.pdf)
 

@@ -12,5 +12,5 @@ Below are the project details:
 - [Tableau (Story Board)](https://github.com/jmps967/INSAID-COURSE-PROJECTS/tree/main/TABLEAU)
 - [Deep Learning Foundation](https://github.com/jmps967/INSAID-COURSE-PROJECTS/tree/main/Deep%20Learning)
 - Capstone Project
-    - Project-1-EDA
+    - [Project-1-EDA](https://github.com/jmps967/INSAID-COURSE-PROJECTS/tree/main/CAPSTONE-1(EDA))
     - Project-2-ML  

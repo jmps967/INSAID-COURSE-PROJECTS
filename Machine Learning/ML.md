@@ -20,7 +20,7 @@ As a part of GCD- Term3to5 Machine Learning Project, INSAID :
 ## Project Material:
 - [Database](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Machine%20Learning/candy-data.csv)
 
-- [Jupyter notebook](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Machine%20Learning/Project-2-ML-1to3_JignaThacker_CandyData.ipynb)
+- [Link for the Jupyter notebook](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Machine%20Learning/Project-2-ML-1to3_JignaThacker_CandyData.ipynb)
 
 - [Presentation](https://github.com/jmps967/INSAID-COURSE-PROJECTS/blob/main/Machine%20Learning/Project-2(ML1to3)_Jigna%20Thacker.pdf)
 
